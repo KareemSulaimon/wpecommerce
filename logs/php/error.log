@@ -1,0 +1,57 @@
+[20-Oct-2023 01:39:54 UTC] Cron unschedule event error for hook: jetpack_clean_nonces, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[20-Oct-2023 01:39:54 UTC] Cron unschedule event error for hook: jetpack_v2_heartbeat, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[20-Oct-2023 01:39:54 UTC] Cron unschedule event error for hook: tinvwl_flush_rewrite_rules, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[20-Oct-2023 01:39:55 UTC] Cron unschedule event error for hook: delete_dynamic_stylesheet_folder, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"monthly","args":[],"interval":2635200}
+[20-Oct-2023 01:39:56 UTC] Cron unschedule event error for hook: wc_admin_process_orders_milestone, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[20-Oct-2023 01:39:56 UTC] Cron unschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[20-Oct-2023 01:39:57 UTC] Cron unschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[20-Oct-2023 01:39:58 UTC] Cron unschedule event error for hook: wc_admin_unsnooze_admin_notes, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[20-Oct-2023 03:50:51 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[20-Oct-2023 03:50:52 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[20-Oct-2023 16:06:26 UTC] PHP Warning:  Undefined array key "publishable_key" in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 196
+[20-Oct-2023 16:06:26 UTC] PHP Warning:  Undefined array key "secret_key" in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 197
+[20-Oct-2023 16:06:26 UTC] PHP Warning:  Undefined array key "test_publishable_key" in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 198
+[20-Oct-2023 16:06:26 UTC] PHP Warning:  Undefined array key "test_secret_key" in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 199
+[20-Oct-2023 16:06:26 UTC] PHP Warning:  Undefined array key "publishable_key" in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 206
+[20-Oct-2023 16:06:26 UTC] PHP Warning:  Undefined array key "secret_key" in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 207
+[20-Oct-2023 16:06:26 UTC] PHP Warning:  Undefined array key "webhook_secret" in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\plugins\woocommerce-gateway-stripe\includes\admin\class-wc-rest-stripe-account-keys-controller.php on line 208
+[20-Oct-2023 16:43:00 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[21-Oct-2023 03:37:54 UTC] Cron reschedule event error for hook: wc_admin_process_orders_milestone, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[21-Oct-2023 08:15:36 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[21-Oct-2023 08:15:36 UTC] Cron unschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[21-Oct-2023 08:15:46 UTC] Cron reschedule event error for hook: wc_admin_process_orders_milestone, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[21-Oct-2023 08:15:56 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[23-Oct-2023 04:01:02 UTC] PHP Warning:  Undefined array key "data" in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[23-Oct-2023 04:01:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[24-Oct-2023 13:17:08 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[24-Oct-2023 13:17:09 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[26-Oct-2023 00:37:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\includes\ajax-actions.php(2416): WP_Widget->update_callback(Array)
+#2 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(310): wp_ajax_save_widget('')
+#3 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148
+[26-Oct-2023 00:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\includes\ajax-actions.php(2416): WP_Widget->update_callback(Array)
+#2 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(310): wp_ajax_save_widget('')
+#3 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148
+[26-Oct-2023 00:38:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\includes\ajax-actions.php(2416): WP_Widget->update_callback(Array)
+#2 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(310): wp_ajax_save_widget('')
+#3 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148

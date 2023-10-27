@@ -1,0 +1,33 @@
+2023-10-26T00:37:27+00:00 CRITICAL Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\includes\ajax-actions.php(2416): WP_Widget->update_callback(Array)
+#2 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(310): wp_ajax_save_widget('')
+#3 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148
+
+2023-10-26T00:37:43+00:00 CRITICAL Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\includes\ajax-actions.php(2416): WP_Widget->update_callback(Array)
+#2 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(310): wp_ajax_save_widget('')
+#3 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148
+
+2023-10-26T00:38:29+00:00 CRITICAL Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\includes\ajax-actions.php(2416): WP_Widget->update_callback(Array)
+#2 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(310): wp_ajax_save_widget('')
+#3 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\pc\Local Sites\ecommerce1\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\Users\pc\Local Sites\ecommerce1\app\public\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148
+
